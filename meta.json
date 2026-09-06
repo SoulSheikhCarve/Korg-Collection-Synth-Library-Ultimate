@@ -1,0 +1,23 @@
+{
+  "repo": "korg-collection-synth-library-ultimate",
+  "product": "Korg Collection Synth Library Ultimate",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "audio",
+  "topics": [
+    "korg-collection",
+    "legacy-synths",
+    "ms20-vst",
+    "analog-emulation",
+    "hardware-models",
+    "korg-setup-failed-fix",
+    "how-to-install-korg",
+    "korg-windows",
+    "korg-desktop-2026",
+    "korg-desktop-package"
+  ],
+  "site": "toolix.me"
+}
